@@ -169,6 +169,14 @@ systemctl start tor
 
 proxychains brave-browser
 
+when you close the browser and want to stop Proxy/Tor,
+
+RUN:
+
+systemctl stop tor
+
+systemctl anonsurf stop
+
 
 
 THERE IS SO MUCH MORE INFO IN THIS VIDEO ON OSINT AND FORENSICS SO IF YOU WANT MORE INFORMATION WATCH THE VIDEO.
