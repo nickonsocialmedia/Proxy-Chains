@@ -2,7 +2,7 @@
 Set up process for running proxy-chains on ubuntu with added security.
 
 
-Sooo.... I watched this video by david bumble,
+Sooo.... I watched this video by David Bombal,
 
 
 VIDEO > https://www.youtube.com/watch?v=LEbAxsYRMcQ
@@ -23,7 +23,7 @@ Its linux so to be able to edit configuratiions your just accessing a file. supe
 sudo apt install proxychains
 
 
-You can locate the configuration file here but its not neccessary because protacals, subnet, and ports are set by default.
+You can locate the configuration file here but its not neccessary because protocols, subnet, and ports are set by default.
 
 
 sudo mousepad /etc/proxychains.conf
@@ -91,7 +91,7 @@ sudo apt install git
 sudo git clone https://github.com/Und3rf10w/kali-anonsurf 
 
 
-lets see where its at,
+lets see where it's at,
 
 
 ls -l 
