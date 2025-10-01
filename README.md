@@ -29,7 +29,7 @@ You can locate the configuration file here but its not neccessary because protoc
 sudo mousepad /etc/proxychains.conf
 
 
-Defaults: 
+Defaults ( these are good enough for now ):
 
 
 Socks4 protocol 
